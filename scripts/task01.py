@@ -5,6 +5,7 @@ from turtlesim.msg import Pose
 import rospy
 
 
+
 # varx = 5.544444561004639
 # vary = 5.544444561004639
 c = 0
